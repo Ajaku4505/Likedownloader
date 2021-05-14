@@ -18,7 +18,7 @@ Number_to_save_in_one_folder    :保存フォルダに保存する画像の数�
 
 count = 100
 id = "@Ajaku4505"
-Save_directory = input("plese input Save_directory path:")
+Save_directory = input("保存先を入力:")
 Name_of_save_folder = "img"
 Number_to_save_in_one_folder = 250
 
